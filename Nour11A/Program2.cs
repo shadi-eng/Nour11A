@@ -8,7 +8,7 @@ namespace Nour11A
 {
     internal class Program2
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             Point p1 = new Point(23, 6);
             Point p2= new Point(29, 9);

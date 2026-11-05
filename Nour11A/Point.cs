@@ -52,5 +52,21 @@ namespace Nour11A
         {
             return this.x;
         }
+
+        public string GetInfo()
+        {
+            //(x,y)
+            return "(" + x + " , " + y + ")";
+        }
+
+        public override string ToString()
+        {
+            return "(" + x + " , " + y + ")";
+            
+        }
+
+       
+
+
     }
 }
